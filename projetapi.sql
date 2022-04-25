@@ -72,7 +72,7 @@ CREATE TABLE IF NOT EXISTS `doctrine_migration_versions` (
 
 INSERT INTO `doctrine_migration_versions` (`version`, `executed_at`, `execution_time`) VALUES
 ('DoctrineMigrations\\Version20220406224025', '2022-04-18 00:00:00', 677),
-('DoctrineMigrations\\Version20220407190009', '2022-04-26 19:00:43', 768);
+('DoctrineMigrations\\Version20220407190009', '2022-04-25 19:00:43', 768);
 
 -- --------------------------------------------------------
 
